@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Electrodomestico", "Electrodomestico.csproj", "{2DF56FBD-1D22-402B-9415-7F087A8BF33B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DF56FBD-1D22-402B-9415-7F087A8BF33B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DF56FBD-1D22-402B-9415-7F087A8BF33B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DF56FBD-1D22-402B-9415-7F087A8BF33B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DF56FBD-1D22-402B-9415-7F087A8BF33B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {457B96C0-718E-41E0-A907-1A8759933D5C}
+	EndGlobalSection
+EndGlobal
