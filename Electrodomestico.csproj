@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Electrodomesticos.cs" />
+    <Compile Include="Entity\Colores.cs" />
+    <Compile Include="Entity\ConsumoEnergetico.cs" />
+    <Compile Include="Entity\Electrodomesticos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
